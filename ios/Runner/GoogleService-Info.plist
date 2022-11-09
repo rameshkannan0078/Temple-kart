@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>730636071640-rqal1hqo6pfq94r6kdtrb20bvm33k2mv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.730636071640-rqal1hqo6pfq94r6kdtrb20bvm33k2mv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>730636071640-1i4go6ggsf8rd6cb992p8m65bef4kqcp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8ZvpltwkLNVPdUvdu-YXj1PtBtrVxI2Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>730636071640</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.primocys.eshield</string>
+	<key>PROJECT_ID</key>
+	<string>eshieldvendor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eshieldvendor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:730636071640:ios:50c6c80e87c79fcd201dad</string>
+	<key>DATABASE_URL</key>
+	<string>https://eshieldvendor-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Eshield</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Eshield</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.730636071640-rqal1hqo6pfq94r6kdtrb20bvm33k2mv</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>My description about why I need this capability</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Eshield app need this capability for booking date and time.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Eshield app requires access to the camera for upload products, image etc.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Eshield app need this capability for add store and locations.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Eshield app need this for local device debug.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Eshield app need this capability for add store and current location.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Eshield app need this capability for add store and locations.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Eshield app need this capability for add store and locations.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Eshield app need this capability for add store and current location.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Eshield app description about why I need this capability</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Eshield app need this capability for upload products, profile image etc.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Eshield app description about why I need this capability</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

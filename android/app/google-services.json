@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704263088109",
+    "project_id": "devotee-f9767",
+    "storage_bucket": "devotee-f9767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704263088109:android:8cebd0fa3738de809669e4",
+        "android_client_info": {
+          "package_name": "com.primocys.eshield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704263088109-v0kbj5o6n9h43imet67ir9n333mfqiu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXToKJEjsh99FAJt7a1RzlP-hH5P-agk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704263088109-v0kbj5o6n9h43imet67ir9n333mfqiu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
